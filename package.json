@@ -1,0 +1,13 @@
+{
+  "name": "clone-website",
+  "version": "1.0.0",
+  "description": "A website project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
